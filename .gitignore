@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+lib/
+dist
+.idea
+.vscode
+.licenses
+__tests__
+__mocks__
